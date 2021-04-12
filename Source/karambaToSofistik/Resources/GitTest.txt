@@ -1,3 +1,14 @@
-﻿This is to test connection with github. 20210408.
+﻿2021-04-08
+This is to test connection with github from dyliu-PC. 
 
-This is to test connection from HO, with cml inside 
+2021-04-12
+This is to test connection from HO, with cml inside (open cml with ALT+SPACE) 
+Commands are the following.
+
+git status											# check status
+
+git add .											# add all files untracked to git 
+
+git commit -m "Title" -m "Discription"				# commit a change
+
+git push origin master								# push to github. "origin" is the location of the repo. "master" is the branch.
