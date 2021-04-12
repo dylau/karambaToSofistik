@@ -5,10 +5,10 @@ This is to test connection with github from dyliu-PC.
 This is to test connection from HO, with cml inside (open cml with ALT+SPACE) 
 Commands are the following.
 
-git status											# check status
+git status								# check status
 
-git add .											# add all files untracked to git 
+git add .								# add all files untracked to git 
 
-git commit -m "Title" -m "Discription"				# commit a change
+git commit -m "Title" -m "Discription"	# commit a change
 
-git push origin master								# push to github. "origin" is the location of the repo. "master" is the branch.
+git push origin master					# push to github. "origin" is the location of the repo. "master" is the branch.

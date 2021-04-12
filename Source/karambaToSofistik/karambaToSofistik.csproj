@@ -83,7 +83,8 @@
     <None Include="Resources\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="GitTest.txt" />
+    <Content Include="Resources\GitTest.txt" />
+    <Content Include="Resources\ExternalLinks.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
