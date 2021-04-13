@@ -12,3 +12,5 @@ git add .								# add all files untracked to git
 git commit -m "Title" -m "Discription"	# commit a change
 
 git push origin master					# push to github. "origin" is the location of the repo. "master" is the branch.
+
+git pull								# download up-to-date version from Github
